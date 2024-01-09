@@ -9,7 +9,7 @@ These instructions will help you set up and run the project on your local machin
 Make sure you have a modern web browser installed that supports JavaScript.
 
 # Installing
-1. Clone the repository to your local machine: // project link
+1. Clone the repository to your local machine: https://github.com/BloodlusT02/Quote_Generator-HTML_CSS_JS
    
 2. Open the index.html file in your preferred web browser.
 
