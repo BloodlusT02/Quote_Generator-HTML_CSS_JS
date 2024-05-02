@@ -1,4 +1,4 @@
-# Quote_Generator-HTML_CSS_JS
+# Quote Generator
 
 # A simple JavaScript application that fetches and displays a random quote using the "https://api.quotable.io/random" API.
 
